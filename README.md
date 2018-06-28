@@ -24,4 +24,4 @@ If the purchase goes through, it updates the stock quantity to reflect the purch
 It will also update the product sales in the department table.
 
 
-<div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="https://giphy.com/embed/efiJ9mojHDnUbWBl7p" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/efiJ9mojHDnUbWBl7p">via GIPHY</a></p>
+![image](https://user-images.githubusercontent.com/11013651/42006454-8408787a-7a3f-11e8-9500-be9bba324ea4.png)
