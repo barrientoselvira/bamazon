@@ -23,4 +23,4 @@ However, if there is not enough of the product in stock, it will tell the user t
 If the purchase goes through, it updates the stock quantity to reflect the purchase.
 It will also update the product sales in the department table.
 
-<iframe src="https://giphy.com/embed/efiJ9mojHDnUbWBl7p" width="480" height="410" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/efiJ9mojHDnUbWBl7p">via GIPHY</a></p>
+https://media.giphy.com/media/efiJ9mojHDnUbWBl7p/200w_d.gif
